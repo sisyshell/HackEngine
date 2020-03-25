@@ -1,0 +1,1017 @@
+2020-03-03 12:25:11.166514 :
+function : RegexMatch
+url : https://dantonehome.ru//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : 'utf-8' codec can't decode byte 0x85 in position 141308: invalid start byte
+==================================================
+2020-03-03 12:38:36.239484 :
+function : is200
+url : http://www.love-sl.ru//wp-admin.php
+error : [WinError 10060] Baðlanýlan uygun olarak belli bir süre içinde yanýt vermediðinden veya kurulan
+baðlantý baðlanýlan ana bilgisayar yanýt vermediðinden bir baðlantý kurulamadý
+==================================================
+2020-03-03 12:44:03.531520 :
+function : is200
+url : http://www.love-sl.ru//user/login
+error : [WinError 10060] Baðlanýlan uygun olarak belli bir süre içinde yanýt vermediðinden veya kurulan
+baðlantý baðlanýlan ana bilgisayar yanýt vermediðinden bir baðlantý kurulamadý
+==================================================
+2020-03-06 18:35:00.493231 :
+function : RegexMatch
+url : www.blogolustur.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'www.blogolustur.com/index.php'
+==================================================
+2020-03-06 18:35:00.585983 :
+function : is200
+url : www.blogolustur.com/wp-admin.php
+error : unknown url type: 'www.blogolustur.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.593977 :
+function : is200
+url : www.blogolustur.com/wp-login.php
+error : unknown url type: 'www.blogolustur.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.608943 :
+function : is200
+url : www.blogolustur.com/administrator
+error : unknown url type: 'www.blogolustur.com/administrator'
+==================================================
+2020-03-06 18:35:00.617898 :
+function : is200
+url : www.blogolustur.com/user/login
+error : unknown url type: 'www.blogolustur.com/user/login'
+==================================================
+2020-03-06 18:35:00.626874 :
+function : RegexMatch
+url : www.wix.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'www.wix.com/index.php'
+==================================================
+2020-03-06 18:35:00.633890 :
+function : is200
+url : www.wix.com/wp-admin.php
+error : unknown url type: 'www.wix.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.641868 :
+function : is200
+url : www.wix.com/wp-login.php
+error : unknown url type: 'www.wix.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.650824 :
+function : is200
+url : www.wix.com/administrator
+error : unknown url type: 'www.wix.com/administrator'
+==================================================
+2020-03-06 18:35:00.661815 :
+function : is200
+url : www.wix.com/user/login
+error : unknown url type: 'www.wix.com/user/login'
+==================================================
+2020-03-06 18:35:00.675742 :
+function : RegexMatch
+url : www.blogger.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'www.blogger.com/index.php'
+==================================================
+2020-03-06 18:35:00.684720 :
+function : is200
+url : www.blogger.com/wp-admin.php
+error : unknown url type: 'www.blogger.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.692756 :
+function : is200
+url : www.blogger.com/wp-login.php
+error : unknown url type: 'www.blogger.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.703668 :
+function : is200
+url : www.blogger.com/administrator
+error : unknown url type: 'www.blogger.com/administrator'
+==================================================
+2020-03-06 18:35:00.715649 :
+function : is200
+url : www.blogger.com/user/login
+error : unknown url type: 'www.blogger.com/user/login'
+==================================================
+2020-03-06 18:35:00.726606 :
+function : RegexMatch
+url : www.blogger.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'www.blogger.com/index.php'
+==================================================
+2020-03-06 18:35:00.736607 :
+function : is200
+url : www.blogger.com/wp-admin.php
+error : unknown url type: 'www.blogger.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.746554 :
+function : is200
+url : www.blogger.com/wp-login.php
+error : unknown url type: 'www.blogger.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.760523 :
+function : is200
+url : www.blogger.com/administrator
+error : unknown url type: 'www.blogger.com/administrator'
+==================================================
+2020-03-06 18:35:00.773481 :
+function : is200
+url : www.blogger.com/user/login
+error : unknown url type: 'www.blogger.com/user/login'
+==================================================
+2020-03-06 18:35:00.785450 :
+function : RegexMatch
+url : www.bilgeadam.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'www.bilgeadam.com/index.php'
+==================================================
+2020-03-06 18:35:00.794457 :
+function : is200
+url : www.bilgeadam.com/wp-admin.php
+error : unknown url type: 'www.bilgeadam.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.804431 :
+function : is200
+url : www.bilgeadam.com/wp-login.php
+error : unknown url type: 'www.bilgeadam.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.815370 :
+function : is200
+url : www.bilgeadam.com/administrator
+error : unknown url type: 'www.bilgeadam.com/administrator'
+==================================================
+2020-03-06 18:35:00.826343 :
+function : is200
+url : www.bilgeadam.com/user/login
+error : unknown url type: 'www.bilgeadam.com/user/login'
+==================================================
+2020-03-06 18:35:00.838320 :
+function : RegexMatch
+url : tr.wix.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'tr.wix.com/index.php'
+==================================================
+2020-03-06 18:35:00.847284 :
+function : is200
+url : tr.wix.com/wp-admin.php
+error : unknown url type: 'tr.wix.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.856293 :
+function : is200
+url : tr.wix.com/wp-login.php
+error : unknown url type: 'tr.wix.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.868228 :
+function : is200
+url : tr.wix.com/administrator
+error : unknown url type: 'tr.wix.com/administrator'
+==================================================
+2020-03-06 18:35:00.880195 :
+function : is200
+url : tr.wix.com/user/login
+error : unknown url type: 'tr.wix.com/user/login'
+==================================================
+2020-03-06 18:35:00.891172 :
+function : RegexMatch
+url : tr.wikipedia.org/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'tr.wikipedia.org/index.php'
+==================================================
+2020-03-06 18:35:00.900142 :
+function : is200
+url : tr.wikipedia.org/wp-admin.php
+error : unknown url type: 'tr.wikipedia.org/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.910155 :
+function : is200
+url : tr.wikipedia.org/wp-login.php
+error : unknown url type: 'tr.wikipedia.org/wp-login.php'
+==================================================
+2020-03-06 18:35:00.923083 :
+function : is200
+url : tr.wikipedia.org/administrator
+error : unknown url type: 'tr.wikipedia.org/administrator'
+==================================================
+2020-03-06 18:35:00.934052 :
+function : is200
+url : tr.wikipedia.org/user/login
+error : unknown url type: 'tr.wikipedia.org/user/login'
+==================================================
+2020-03-06 18:35:00.946052 :
+function : RegexMatch
+url : support.google.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'support.google.com/index.php'
+==================================================
+2020-03-06 18:35:00.954997 :
+function : is200
+url : support.google.com/wp-admin.php
+error : unknown url type: 'support.google.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:00.963009 :
+function : is200
+url : support.google.com/wp-login.php
+error : unknown url type: 'support.google.com/wp-login.php'
+==================================================
+2020-03-06 18:35:00.975944 :
+function : is200
+url : support.google.com/administrator
+error : unknown url type: 'support.google.com/administrator'
+==================================================
+2020-03-06 18:35:00.985914 :
+function : is200
+url : support.google.com/user/login
+error : unknown url type: 'support.google.com/user/login'
+==================================================
+2020-03-06 18:35:00.997882 :
+function : RegexMatch
+url : webrazzi.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'webrazzi.com/index.php'
+==================================================
+2020-03-06 18:35:01.006856 :
+function : is200
+url : webrazzi.com/wp-admin.php
+error : unknown url type: 'webrazzi.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:01.018827 :
+function : is200
+url : webrazzi.com/wp-login.php
+error : unknown url type: 'webrazzi.com/wp-login.php'
+==================================================
+2020-03-06 18:35:01.030801 :
+function : is200
+url : webrazzi.com/administrator
+error : unknown url type: 'webrazzi.com/administrator'
+==================================================
+2020-03-06 18:35:01.043759 :
+function : is200
+url : webrazzi.com/user/login
+error : unknown url type: 'webrazzi.com/user/login'
+==================================================
+2020-03-06 18:35:01.062708 :
+function : RegexMatch
+url : blog.milliyet.com.tr/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'blog.milliyet.com.tr/index.php'
+==================================================
+2020-03-06 18:35:01.073679 :
+function : is200
+url : blog.milliyet.com.tr/wp-admin.php
+error : unknown url type: 'blog.milliyet.com.tr/wp-admin.php'
+==================================================
+2020-03-06 18:35:01.083652 :
+function : is200
+url : blog.milliyet.com.tr/wp-login.php
+error : unknown url type: 'blog.milliyet.com.tr/wp-login.php'
+==================================================
+2020-03-06 18:35:01.095653 :
+function : is200
+url : blog.milliyet.com.tr/administrator
+error : unknown url type: 'blog.milliyet.com.tr/administrator'
+==================================================
+2020-03-06 18:35:01.106594 :
+function : is200
+url : blog.milliyet.com.tr/user/login
+error : unknown url type: 'blog.milliyet.com.tr/user/login'
+==================================================
+2020-03-06 18:35:01.118559 :
+function : RegexMatch
+url : wpmavi.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'wpmavi.com/index.php'
+==================================================
+2020-03-06 18:35:01.127561 :
+function : is200
+url : wpmavi.com/wp-admin.php
+error : unknown url type: 'wpmavi.com/wp-admin.php'
+==================================================
+2020-03-06 18:35:01.138505 :
+function : is200
+url : wpmavi.com/wp-login.php
+error : unknown url type: 'wpmavi.com/wp-login.php'
+==================================================
+2020-03-06 18:35:01.150473 :
+function : is200
+url : wpmavi.com/administrator
+error : unknown url type: 'wpmavi.com/administrator'
+==================================================
+2020-03-06 18:35:01.161468 :
+function : is200
+url : wpmavi.com/user/login
+error : unknown url type: 'wpmavi.com/user/login'
+==================================================
+2020-03-06 18:35:01.174409 :
+function : RegexMatch
+url : www.blog.google/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown url type: 'www.blog.google/index.php'
+==================================================
+2020-03-06 18:35:01.184410 :
+function : is200
+url : www.blog.google/wp-admin.php
+error : unknown url type: 'www.blog.google/wp-admin.php'
+==================================================
+2020-03-06 18:35:01.193386 :
+function : is200
+url : www.blog.google/wp-login.php
+error : unknown url type: 'www.blog.google/wp-login.php'
+==================================================
+2020-03-06 18:35:01.206323 :
+function : is200
+url : www.blog.google/administrator
+error : unknown url type: 'www.blog.google/administrator'
+==================================================
+2020-03-06 18:35:01.220286 :
+function : is200
+url : www.blog.google/user/login
+error : unknown url type: 'www.blog.google/user/login'
+==================================================
+2020-03-06 19:23:09.248206 :
+function : RegexMatch
+url : http://chila.ru/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-06 19:24:06.493354 :
+function : RegexMatch
+url : http://www.hpsmusic.ru/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+==================================================
+2020-03-06 19:26:12.568328 :
+function : RegexMatch
+url : http://www.exness.ru/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-06 19:26:13.642542 :
+function : RegexMatch
+url : http://www.exness.ru/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-06 19:27:22.969023 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:27:39.046983 :
+function : RegexMatch
+url : http://www.odemis.bel.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:27:41.404799 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:28:03.218521 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:28:21.413710 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:28:22.712418 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:28:44.736859 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:29:14.268239 :
+function : RegexMatch
+url : http://www.tobbsaik.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:29:18.735930 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:29:22.457462 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:29:40.627289 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:29:41.858143 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:29:53.414915 :
+function : is200
+url : http://www.elazigtb.org.tr/wp-login.php
+error : Basarisiz giris denemeleri nedeniyle, talebinizi su anda gerceklestiremiyoruz. Lutfen daha sonra tekrar deneyiniz.
+==================================================
+2020-03-06 19:30:02.113266 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:30:03.522922 :
+function : RegexMatch
+url : http://www.elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:30:41.937845 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:31:03.741133 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:31:05.124555 :
+function : RegexMatch
+url : http://www.elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:32:01.734296 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:32:08.588110 :
+function : RegexMatch
+url : http://www.tobbsaik.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:32:19.084734 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:32:37.505514 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:32:38.724353 :
+function : RegexMatch
+url : http://www.elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:33:28.085591 :
+function : RegexMatch
+url : http://www.metalurji.org.tr/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : 'utf-8' codec can't decode byte 0xe7 in position 58800: invalid continuation byte
+==================================================
+2020-03-06 19:33:29.134533 :
+function : RegexMatch
+url : http://www.metalurji.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:33:38.596649 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:36:06.624272 :
+function : RegexMatch
+url : http://www.badminton.gov.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:36:09.402434 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:36:10.871912 :
+function : RegexMatch
+url : http://www.elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:36:50.239255 :
+function : RegexMatch
+url : http://elazig.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:36:51.807151 :
+function : RegexMatch
+url : http://www.kayseri.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:37:23.510729 :
+function : RegexMatch
+url : http://www.badminton.gov.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:37:26.469415 :
+function : RegexMatch
+url : http://otb.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:37:28.521374 :
+function : RegexMatch
+url : http://www.otb.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:37:32.637988 :
+function : RegexMatch
+url : http://www.hedefgazetesi.com.tr/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : 'utf-8' codec can't decode byte 0xc4 in position 140415: invalid continuation byte
+==================================================
+2020-03-06 19:38:17.048047 :
+function : RegexMatch
+url : http://www.badminton.gov.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:48:04.048406 :
+function : RegexMatch
+url : http://malatya.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:48:18.907417 :
+function : RegexMatch
+url : http://www.malatya.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:48:30.346444 :
+function : RegexMatch
+url : http://www.tsof.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:49:18.633135 :
+function : RegexMatch
+url : http://www.siverek.bel.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:49:43.182717 :
+function : RegexMatch
+url : http://kayseri.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:49:54.248503 :
+function : RegexMatch
+url : http://www.europass.gov.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:50:21.124274 :
+function : RegexMatch
+url : http://europass.gov.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:50:32.775106 :
+function : RegexMatch
+url : http://mardin.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:50:43.820122 :
+function : RegexMatch
+url : http://www.ankara.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:50:47.423859 :
+function : RegexMatch
+url : http://kocaeli.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-06 19:51:20.684137 :
+function : RegexMatch
+url : http://ankara.tsf.org.tr/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-07 19:33:53.359334 :
+function : RegexMatch
+url : https://dantonehome.ru//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : 'utf-8' codec can't decode byte 0x85 in position 141308: invalid start byte
+==================================================
+2020-03-07 19:35:16.047981 :
+function : is200
+url : https://mgts.ru//wp-login.php
+error : [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+==================================================
+2020-03-07 21:03:34.427493 :
+function : RegexMatch
+url : http://malatyahaber.com/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-07 21:05:09.114839 :
+function : is200
+url : http://www.malatyaguncel.com/user/login
+error : [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+==================================================
+2020-03-07 21:13:15.465835 :
+function : RegexMatch
+url : http://autoclub68.ru/administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-08 15:20:50.987017 :
+function : RegexMatch
+url : http://www.creamedia.net.tr/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-08 15:21:30.658469 :
+function : RegexMatch
+url : http://www.huseyindemir.net.tr/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-08 15:21:31.534190 :
+function : RegexMatch
+url : http://www.huseyindemir.net.tr/index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:14:14.703815 :
+function : RegexMatch
+url : http://www.veriteknik.net.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : timed out
+==================================================
+2020-03-10 10:17:56.329258 :
+function : RegexMatch
+url : http://www.thy.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : The read operation timed out
+==================================================
+2020-03-10 10:18:06.660172 :
+function : is200
+url : http://www.thy.com.tr//wp-admin.php
+error : The read operation timed out
+==================================================
+2020-03-10 10:18:17.165359 :
+function : is200
+url : http://www.thy.com.tr//wp-login.php
+error : The read operation timed out
+==================================================
+2020-03-10 10:18:27.755723 :
+function : is200
+url : http://www.thy.com.tr//administrator
+error : The read operation timed out
+==================================================
+2020-03-10 10:18:38.252818 :
+function : is200
+url : http://www.thy.com.tr//user/login
+error : The read operation timed out
+==================================================
+2020-03-10 10:19:17.789739 :
+function : RegexMatch
+url : http://www.yeditepe.edu.tr/CHANGELOG.txt
+regex :^Drupal (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:20:25.672004 :
+function : RegexMatch
+url : http://www.noktaistanbul.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : The read operation timed out
+==================================================
+2020-03-10 10:20:36.720110 :
+function : is200
+url : http://www.noktaistanbul.com.tr//wp-admin.php
+error : The read operation timed out
+==================================================
+2020-03-10 10:20:47.303967 :
+function : is200
+url : http://www.noktaistanbul.com.tr//wp-login.php
+error : The read operation timed out
+==================================================
+2020-03-10 10:21:47.676192 :
+function : RegexMatch
+url : http://www.manisavdb.gov.tr/CHANGELOG.txt
+regex :^Drupal (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:24:27.759581 :
+function : RegexMatch
+url : http://www.sehzadeler.bel.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:27:36.683801 :
+function : is200
+url : http://www.cignafinans.com.tr//administrator
+error : [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+==================================================
+2020-03-10 10:27:36.791533 :
+function : is200
+url : http://www.cignafinans.com.tr//user/login
+error : [WinError 10054] Varolan bir baðlantý uzaktaki bir ana bilgisayar tarafýndan zorla kapatýldý
+==================================================
+2020-03-10 10:29:43.479849 :
+function : RegexMatch
+url : http://www.tkgm.gov.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : The read operation timed out
+==================================================
+2020-03-10 10:30:47.885405 :
+function : RegexMatch
+url : http://www.tepav.org.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:31:20.568069 :
+function : RegexMatch
+url : http://www.avis.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:31:24.181417 :
+function : RegexMatch
+url : http://www.avis.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:34:26.360411 :
+function : RegexMatch
+url : http://www.turkiye.gov.tr//administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-10 10:56:51.119388 :
+function : RegexMatch
+url : http://www.secretcv.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 10:56:59.240042 :
+function : RegexMatch
+url : http://www.secretcv.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 11:11:48.997087 :
+function : RegexMatch
+url : http://www.zomato.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : timed out
+==================================================
+2020-03-10 11:12:00.736333 :
+function : is200
+url : http://www.zomato.com//wp-login.php
+error : timed out
+==================================================
+2020-03-10 11:12:11.060159 :
+function : is200
+url : http://www.zomato.com//administrator
+error : timed out
+==================================================
+2020-03-10 11:12:21.433996 :
+function : is200
+url : http://www.zomato.com//user/login
+error : timed out
+==================================================
+2020-03-10 11:13:19.123959 :
+function : RegexMatch
+url : http://www.baskent.edu.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 11:14:24.209693 :
+function : RegexMatch
+url : http://www.yakala.co//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 11:14:27.090781 :
+function : RegexMatch
+url : http://www.yakala.co//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 11:14:33.470599 :
+function : RegexMatch
+url : http://www.schoolcafe.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 11:14:36.032705 :
+function : RegexMatch
+url : http://www.schoolcafe.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-10 11:16:47.394627 :
+function : RegexMatch
+url : http://bellevuecollection.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte
+==================================================
+2020-03-23 09:59:41.208994 :
+function : RegexMatch
+url : http://target.my.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 09:59:43.823983 :
+function : RegexMatch
+url : http://target.my.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:00:20.750197 :
+function : RegexMatch
+url : http://www.target.com.au//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : timed out
+==================================================
+2020-03-23 10:00:30.799457 :
+function : is200
+url : http://www.target.com.au//wp-admin.php
+error : timed out
+==================================================
+2020-03-23 10:02:51.888301 :
+function : is200
+url : http://www.yasar.edu.tr//wp-admin.php
+error : The read operation timed out
+==================================================
+2020-03-23 10:03:07.935354 :
+function : RegexMatch
+url : http://hacibayram.edu.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:03:08.759165 :
+function : RegexMatch
+url : http://hacibayram.edu.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:04:53.321633 :
+function : RegexMatch
+url : http://www.ieu.edu.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:04:54.654070 :
+function : RegexMatch
+url : http://www.ieu.edu.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:06:17.876354 :
+function : is200
+url : http://kku.edu.tr//administrator
+error : The read operation timed out
+==================================================
+2020-03-23 10:06:22.942812 :
+function : RegexMatch
+url : http://webonline.cankaya.edu.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : Remote end closed connection without response
+==================================================
+2020-03-23 10:06:23.039550 :
+function : is200
+url : http://webonline.cankaya.edu.tr//wp-admin.php
+error : Remote end closed connection without response
+==================================================
+2020-03-23 10:06:23.142276 :
+function : is200
+url : http://webonline.cankaya.edu.tr//wp-login.php
+error : Remote end closed connection without response
+==================================================
+2020-03-23 10:06:23.243026 :
+function : is200
+url : http://webonline.cankaya.edu.tr//administrator
+error : Remote end closed connection without response
+==================================================
+2020-03-23 10:06:23.339764 :
+function : is200
+url : http://webonline.cankaya.edu.tr//user/login
+error : Remote end closed connection without response
+==================================================
+2020-03-23 10:19:28.959108 :
+function : RegexMatch
+url : http://www.sevgihastanesi.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:19:29.641282 :
+function : RegexMatch
+url : http://www.sevgihastanesi.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:21:44.602936 :
+function : RegexMatch
+url : http://www.ithakiajans.com//administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-23 10:21:50.668096 :
+function : RegexMatch
+url : http://aksisnet.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:21:51.752488 :
+function : RegexMatch
+url : http://aksisnet.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:21:57.523248 :
+function : RegexMatch
+url : http://www.webtasarimdunyasi.org//administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================
+2020-03-23 10:22:59.427308 :
+function : RegexMatch
+url : https://www.trwebtasarimi.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:23:02.522146 :
+function : RegexMatch
+url : https://www.trwebtasarimi.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:26:04.514802 :
+function : RegexMatch
+url : http://www.mucizefikir.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:26:13.558815 :
+function : RegexMatch
+url : http://www.theadam.com.tr//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:26:43.276062 :
+function : RegexMatch
+url : http://www.kreatifajans.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:26:58.569161 :
+function : RegexMatch
+url : http://www.gelisimmedya.com//index.php
+regex :^<meta name="generator" content="+(?P<cms>[A-Za-z]+) (?P<version>[0-9.]+)
+error : unknown encoding: 
+==================================================
+2020-03-23 10:27:00.115057 :
+function : RegexMatch
+url : http://www.gelisimmedya.com//administrator/manifests/files/joomla.xml
+regex :^	<version>(?P<version>[0-9.]+)</version>
+error : unknown encoding: 
+==================================================

@@ -1,10 +1,10 @@
 #!/usr/bin/python
-import sqlite3, urllib.request, json, re, datetime
+import sqlite3, urllib.request, json, re, datetime, os
 from socket import timeout
 from style import *
 from useragents import *
-  
-con = sqlite3.connect('hackable.db')
+
+con = sqlite3.connect(os.path.dirname(__file__)+'/hackable.db')
 
 def isScanned(url):
   cursorObj = con.cursor()
@@ -92,7 +92,7 @@ def RegexMatch(url, regex):
 def getVersion(url,vendor):
   logo()
   print(url)
-  with open('cms.json', 'r') as cms_conf:
+  with open(os.path.dirname(__file__)+'/cms.json', 'r') as cms_conf:
     cms_conf_dict = json.load(cms_conf)
     print("=" * 65)
     print(vendor + " version Scanning")
@@ -118,7 +118,7 @@ def getVersion(url,vendor):
 			
 def getCMS(url):
   insertScanned(url)
-  with open('cms.json', 'r') as cms_conf:
+  with open(os.path.dirname(__file__)+'/cms.json', 'r') as cms_conf:
     cms_conf_dict = json.load(cms_conf)
     for vendor in cms_conf_dict['vendors'].keys():
       print("=" * 65)

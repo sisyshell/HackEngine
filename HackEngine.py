@@ -41,7 +41,7 @@ def is200(url):
     error(msg)
     return False
   except Exception as e:
-    with open('error.log', 'a') as error_log:
+    with open(os.path.dirname(__file__)+'/error.log', 'a') as error_log:
       error_log.write(str(datetime.datetime.now()) + " :\n" + "function : is200" + "\nurl : " + url + "\nerror : " + str(e) + "\n" + "=" * 50 + "\n")
   except timeout:
     error("urllib urlopen timeout")
@@ -83,7 +83,7 @@ def RegexMatch(url, regex):
     error(msg)
     return False
   except Exception as e:
-    with open('error.log', 'a') as error_log:
+    with open(os.path.dirname(__file__)+'/error.log', 'a') as error_log:
       error_log.write(str(datetime.datetime.now()) + " :\n" + "function : RegexMatch" + "\nurl : " + url + "\nregex :" + regex + "\nerror : " + str(e) + "\n" + "=" * 50 + "\n")
   except timeout:
     error("urllib urlopen timeout")
@@ -201,7 +201,7 @@ def googleSearch():
 			  
 def main():
   logo()
-  with open("targets.txt", 'r') as targets:
+  with open(os.path.dirname(__file__)+"/targets.txt", 'r') as targets:
     for target in targets.readlines():
       target = target.replace("\n","")
       logo()

@@ -20,8 +20,9 @@
 	"Joomla":{
 		"validation":[
 			{
-			"type":"is200",
-			"path":"/administrator/manifests/files/joomla.xml"
+			"type":"RegexMatch",
+			"path":"/administrator/manifests/files/joomla.xml",
+			"regex": "^\t<version>(?P<version>[0-9.]+)</version>"
 			}
 		],
 		"version":[
